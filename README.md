@@ -1,2 +1,2 @@
 # Devops
-Practice the
+Practice the basics 
