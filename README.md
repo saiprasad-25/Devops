@@ -1,2 +1,2 @@
 # Devops
-Practice
+Practice the
